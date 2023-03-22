@@ -178,7 +178,6 @@ function App() {
                     </ListGroup>
                   </Col>
                   {/* End Time */}
-                  <Col></Col>
                   <Col>
                     <Card.Text border="primary">
                       <Button variant="success">Kết Thúc Ngày trong </Button>

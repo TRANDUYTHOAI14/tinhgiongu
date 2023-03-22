@@ -67,3 +67,13 @@
 .countdown-value {
   margin-right: 10px;
 }
+
+@media (max-width: 575px) {
+  .list-group-horizontal {
+    flex-direction: column;
+  }
+
+  .list-group-horizontal h4 {
+    flex-basis: 100% !important;
+  }
+}
