@@ -78,4 +78,8 @@
     flex-basis: 100% !important;
     margin-bottom: 15px !important;
   }
+
+  .countdown-item {
+    font-size: 18px;
+  }
 }
