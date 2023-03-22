@@ -70,10 +70,12 @@
 
 @media (max-width: 575px) {
   .list-group-horizontal {
-    flex-direction: column;
+    flex-direction: column !important;
+    text-align: center;
   }
 
   .list-group-horizontal h4 {
     flex-basis: 100% !important;
+    margin-bottom: 15px !important;
   }
 }
